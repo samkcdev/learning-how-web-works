@@ -13,4 +13,4 @@ POP3
 HTTP(Hyper Text Transfer Protocol): It is a well defined client-server protocol which allows to get data from the server and set data in server.
 IP Address: Internet Protocol is protocol that governs how data is transferred from computer to another. Every computer has a IP address associated with it.
 
-DNS: connects One ip address to another;
+DNS: connects One ip address to another
